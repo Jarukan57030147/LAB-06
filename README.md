@@ -49,12 +49,10 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic3.png)
 
 4.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+โปรแกรมจะรันผลออกมาให้เราป้อนตัวเลขแล้วกด Enter จะแสดงว่าเราป้อนตัวเลขอะไร
+![](https://github.com/Jarukan57030147/LAB-06/blob/master/imgs/Capture2.PNG?raw=true)
+
 
 ###คำถาม 6.3 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น มีวิธีการป้องกันหรือแก้ไขอย่างไร
 <hr>
