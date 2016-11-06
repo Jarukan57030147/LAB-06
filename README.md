@@ -101,11 +101,19 @@ namespace Lab6
                 Console.Write("ID: ");
                 int val1 = Convert.ToInt32(Console.ReadLine());
                 Console.Write("GPA: ");
-                int val2 = Convert.ToInt32(Console.ReadLine());
+                double   val2 = Convert.ToDouble(Console.ReadLine());
+                //double AA = val2 + 0.00;  
+                float BB = (float)val2 ;
+                Console.WriteLine("-------------------");
+                Console.WriteLine("Name:"+str1+" "+str2);
+                Console.WriteLine("ID:" + val1);
+                Console.WriteLine("GPA:" + "{0:F2}",BB);
             }
             catch
             {
             }            
         }
-    }
+    }        
+}
 ```
+![](https://github.com/Jarukan57030147/LAB-06/blob/master/imgs/Capture6.PNG?raw=true)
